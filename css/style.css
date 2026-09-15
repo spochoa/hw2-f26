@@ -94,6 +94,10 @@ div {
     border-top: 2px solid white;
 }
 
+.green p {
+    color: white;
+}
+
 footer {
     background: #000000;
     background: linear-gradient(271deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 255, 1) 25%, rgba(0, 102, 255, 1) 70%, rgba(0, 0, 0, 1) 100%);
