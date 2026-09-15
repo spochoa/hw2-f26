@@ -53,6 +53,10 @@ div {
     border-top: none;
 }
 
+.red p {
+    color: white;
+}
+
 .blue{
     background-color: #0000ff;
     text-align: left;
