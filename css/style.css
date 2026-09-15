@@ -44,7 +44,7 @@ div {
 }
 
 .red{
-    background-color: #ff0000;
+    background-color: #CC0000;
     text-align: right;
     margin-left: 50px;
     border-bottom: 2px solid white;
@@ -54,7 +54,7 @@ div {
 }
 
 .red p {
-    color: white;
+    color: #FFFFFF;
 }
 
 .blue{
@@ -95,7 +95,7 @@ div {
 }
 
 .green p {
-    color: white;
+    color: #FFFFFF;
 }
 
 footer {
